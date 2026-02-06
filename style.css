@@ -1,0 +1,26 @@
+.image-box img {
+    width: 1600px;
+    height: 800px;
+}
+
+.image-box{
+    flex: 2;
+    justify-content: center;
+}
+
+.image-box{
+}
+body{
+    display: flex;    
+}
+
+.data{
+ flex: 1;
+ padding-top: 100px;
+}
+
+.click{
+    padding-left: 50%;
+    justify-content: center;
+    font-size: 40px;
+}
